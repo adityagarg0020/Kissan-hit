@@ -128,7 +128,7 @@ export function AuthProvider({ children }) {
   const signUp = async ({ email, password, fullName, phone, preferredLanguage = 'en' }) => {
     // 1. Try backend instant-confirm registration first for smooth user onboarding experience
     try {
-      const resp = await fetch('http://localhost:5050/api/auth/register', {
+      const resp = await fetch('/api/auth/register', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ email, password, fullName, phone, preferredLanguage })

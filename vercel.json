@@ -5,7 +5,7 @@
   "functions": {
     "api/index.js": {
       "includeFiles": "Data/processed/**",
-      "maxDuration": 15
+      "maxDuration": 10
     }
   },
   "rewrites": [
