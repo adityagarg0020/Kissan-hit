@@ -1,0 +1,43 @@
+{
+  "metrics_table": [
+    {
+      "Model": "Naive_Commodity_Mean",
+      "Val_MAE": 1416.54,
+      "Test_MAE": 1377.36,
+      "Test_RMSE": 2476.05,
+      "Test_MAPE_%": 3478.21,
+      "Test_R2": 0.8438
+    },
+    {
+      "Model": "Ridge_Regression",
+      "Val_MAE": 173.5,
+      "Test_MAE": 217.69,
+      "Test_RMSE": 2668.93,
+      "Test_MAPE_%": 235.41,
+      "Test_R2": 0.8186
+    },
+    {
+      "Model": "Hist_Gradient_Boosting",
+      "Val_MAE": 187.07,
+      "Test_MAE": 150.68,
+      "Test_RMSE": 1188.62,
+      "Test_MAPE_%": 145.24,
+      "Test_R2": 0.964
+    },
+    {
+      "Model": "Random_Forest",
+      "Val_MAE": 118.37,
+      "Test_MAE": 121.87,
+      "Test_RMSE": 881.37,
+      "Test_MAPE_%": 9.37,
+      "Test_R2": 0.9802
+    }
+  ],
+  "best_model": "Random_Forest",
+  "dataset_source": "Data.gov.in Agmarknet Mandi Daily Arrivals",
+  "train_split": "21,213 records (Train on newest arrivals)",
+  "val_split": "2,652 records (Validation)",
+  "test_split": "2,652 records (Unseen Holdout Test on 2026-10-22)",
+  "total_records": 26517,
+  "generated_at": "2026-10-22T09:27:55.135294"
+}

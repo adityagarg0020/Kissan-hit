@@ -1,0 +1,49 @@
+{
+  "pageTitle": "Farmer Price Alerts & Notifications",
+  "pageSubtitle": "Configure real-time threshold notifications for auction price increases, drops, daily volatility spikes, or AI forecast trend changes.",
+  "create": {
+    "title": "Create New Price Alert",
+    "activeBadge": "{count} Active Alerts",
+    "commodity": "Select Commodity",
+    "state": "Select State",
+    "district": "Select District",
+    "conditionLabel": "Alert Trigger Condition",
+    "above": "Price Rises Above Target (₹/q)",
+    "below": "Price Drops Below Floor (₹/q)",
+    "movement": "Significant Daily Shift (±%)",
+    "forecast": "AI Forecast Trend Change",
+    "targetPrice": "Target Modal Price (₹/quintal)",
+    "liveMandi": "Live Mandi: ₹{price}/q",
+    "shiftThreshold": "Percentage Shift Threshold (±%)",
+    "forecastWatch": "AI Forecast Watch",
+    "forecastHint": "Triggers whenever model shifts between Increasing, Decreasing, or Stable.",
+    "saveBtn": "Set Active Alert",
+    "activated": "Price alert successfully activated for {crop}!",
+    "success": "Price alert created successfully.",
+    "validation": "Please select a commodity and enter a valid target price greater than 0."
+  },
+  "active": {
+    "title": "Your Active Alerts",
+    "subtitle": "Continuously checked against incoming Agmarknet auction batches",
+    "refresh": "Refresh Alerts",
+    "loading": "Loading active alerts...",
+    "emptyTitle": "No Active Alerts Configured",
+    "emptyMessage": "Set a price alert above to be notified when your crop reaches your desired selling rate or experiences market shifts.",
+    "notifyAbove": "Notify if price rises above ₹{price}/q",
+    "notifyBelow": "Notify if price drops below ₹{price}/q",
+    "notifyMovement": "Notify on > {pct}% daily price shift",
+    "notifyForecast": "Notify when AI forecast trajectory shifts",
+    "statusActive": "Active",
+    "statusTriggered": "Triggered",
+    "watching": "Monitoring",
+    "target": "Target",
+    "current": "Current Rate",
+    "deleteAlert": "Delete Alert",
+    "deleteConfirm": "Delete this alert?",
+    "noAlerts": "No price alerts configured yet. Create an alert above to get notified when prices reach your target."
+  },
+  "advisory": {
+    "title": "How Kissan Saathi Alerts Function",
+    "text": "Every morning when fresh APMC arrival rates are published on Agmarknet, alerts are evaluated against updated auction records. In the live prototype, active alerts simulate instant trigger detection based on the latest 2026 session records."
+  }
+}

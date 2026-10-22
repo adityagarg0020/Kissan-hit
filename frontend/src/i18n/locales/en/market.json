@@ -1,0 +1,50 @@
+{
+  "pageTitle": "Live Mandi Prices & Arrivals",
+  "pageSubtitle": "Official Agmarknet wholesale auction data fetched continuously from Data.gov.in",
+  "filters": {
+    "commodity": "Commodity / Crop",
+    "state": "State",
+    "district": "District",
+    "market": "Market / Mandi",
+    "variety": "Variety",
+    "grade": "Grade",
+    "searchPlaceholder": "Search by mandi, commodity, or variety...",
+    "allCommodities": "All Commodities",
+    "allStates": "All States",
+    "allDistricts": "All Districts",
+    "allMarkets": "All Mandis",
+    "allVarieties": "All Varieties",
+    "allGrades": "All Grades"
+  },
+  "priceCard": {
+    "modalPrice": "Current Reported Modal Price",
+    "minRate": "Minimum Price",
+    "maxRate": "Maximum Price",
+    "arrivalDate": "Arrival Date",
+    "spread": "Daily Auction Spread",
+    "recent": "Recent",
+    "officialDate": "Official Agmarknet reporting date:",
+    "grade": "Grade",
+    "perQuintal": "/quintal",
+    "mostFrequent": "Most frequent auction rate in session",
+    "officialSession": "Official Mandi Session",
+    "source": "Source",
+    "indicativeNotice": "Indicative price notice: Final auction rate depends on quality grade, moisture level, and auction batch arrivals."
+  },
+  "results": {
+    "title": "Mandi Auction Records",
+    "showing": "Showing",
+    "resultsFound": "verified auction records",
+    "noResults": "No matching mandi records found.",
+    "columns": {
+      "commodity": "Commodity",
+      "market": "Market / Mandi",
+      "location": "District & State",
+      "variety": "Variety",
+      "grade": "Grade",
+      "modalPrice": "Modal Price",
+      "minMax": "Min / Max",
+      "arrivalDate": "Arrival Date"
+    }
+  }
+}

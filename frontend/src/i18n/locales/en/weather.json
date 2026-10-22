@@ -1,0 +1,92 @@
+{
+  "pageTitle": "Weather Report & Agricultural Alerts",
+  "pageSubtitle": "Live micro-meteorological observations and rule-based agricultural alerts for field operations",
+  "refresh": "Refresh Weather",
+  "refreshing": "Refreshing...",
+  "loadingTitle": "Retrieving Live Weather Data...",
+  "loadingSubtitle": "Communicating with OpenWeather meteorological proxy for your coordinates.",
+  "errorTitle": "Weather Temporarily Unavailable",
+  "retry": "Check Status & Retry",
+  "currentLocation": "Current Location",
+  "current": {
+    "title": "Current Observations",
+    "updated": "Updated:",
+    "feelsLike": "Feels like",
+    "rainChance": "Rain Chance",
+    "humidity": "Humidity",
+    "windSpeed": "Wind Speed",
+    "unavailable": "Unavailable"
+  },
+  "alerts": {
+    "title": "Agricultural Weather Alerts & Recommendations",
+    "farmTip": "Farm Tip:",
+    "noAlerts": "✓ No major weather alerts",
+    "noAlertsMsg": "No major weather alerts are currently detected.",
+    "noAlertsTip": "Conditions are stable for routine field activities.",
+    "rainLikely": "🌧️ Rain Likely",
+    "rainLikelyMsg": "Rain is likely in your area.",
+    "rainLikelyTip": "Consider the forecast before irrigation or spraying activities.",
+    "heatAlert": "🌡️ High Temperature Alert",
+    "heatAlertMsg": "High temperatures are expected.",
+    "heatAlertTip": "Monitor crops for heat stress and maintain appropriate irrigation.",
+    "windAlert": "💨 Strong Wind Alert",
+    "windAlertMsg": "Strong winds are expected.",
+    "windAlertTip": "Check vulnerable crops and farm structures.",
+    "thunderAlert": "⛈️ Thunderstorm Alert",
+    "thunderAlertMsg": "Thunderstorms are expected.",
+    "thunderAlertTip": "Avoid outdoor farm work during thunderstorms and protect equipment where possible.",
+    "noActiveAlerts": "No active weather alerts."
+  },
+  "guidance": {
+    "title": "Field Operations Guidance",
+    "safety": "Safety & Equipment",
+    "irrigation": "Irrigation & Spraying",
+    "fieldWork": "Field Operations",
+    "pesticides": "Pesticide Application"
+  },
+  "forecast": {
+    "title": "5-Day Agricultural Forecast",
+    "swipeHint": "Swipe / scroll horizontally on mobile",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "noForecast": "Forecast data currently unavailable."
+  },
+  "conditions": {
+    "clear": "Clear Sky",
+    "clouds": "Cloudy",
+    "rain": "Rain",
+    "drizzle": "Drizzle",
+    "thunderstorm": "Thunderstorm",
+    "snow": "Snow",
+    "mist": "Mist",
+    "fog": "Fog",
+    "haze": "Haze"
+  },
+  "ai": {
+    "title": "AI Agricultural Weather Explanation",
+    "language": "Language:",
+    "askPlaceholder": "Ask about weather impacts on your crops (e.g. Aaj sinchai karni chahiye ya nahi?)...",
+    "askButton": "Ask AI",
+    "explaining": "Analyzing verified OpenWeather observations and formulating farmer advice...",
+    "hint": "Select a question prompt above or ask a custom question to get an AI agricultural interpretation of current weather.",
+    "prompts": {
+      "today": "What is the weather today?",
+      "pesticide": "Can I spray pesticide today?",
+      "irrigate": "Should I irrigate my fields today?",
+      "rain": "Is heavy rain or thunderstorm expected?"
+    }
+  },
+  "disclaimers": {
+    "planning": "Planning Disclaimer: Weather information is provided for general planning. Actual weather conditions may change. Agricultural decisions should consider local field conditions and official weather advisories.",
+    "aiNotice": "AI Explanation Notice: AI-generated explanation based on weather data. It does not guarantee weather conditions or crop outcomes."
+  },
+  "summaryCard": {
+    "title": "Weather & Field Alerts",
+    "viewDetails": "View Details",
+    "checking": "Checking live OpenWeather data...",
+    "tapToOpen": "Tap to open weather page & check location",
+    "feelsLike": "Feels like",
+    "rain": "Rain",
+    "noAlerts": "✓ No major weather alerts"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "pageTitle": "लाइव मंडी भाव एवं आवक",
+  "pageSubtitle": "Data.gov.in के माध्यम से प्राप्त आधिकारिक सरकारी Agmarknet थोक नीलामी डेटा",
+  "filters": {
+    "commodity": "फसल / जींस",
+    "state": "राज्य",
+    "district": "जिला",
+    "market": "मंडी / बाजार",
+    "variety": "किस्म (वैरायटी)",
+    "grade": "ग्रेड",
+    "searchPlaceholder": "मंडी, फसल या किस्म के नाम से खोजें...",
+    "allCommodities": "सभी फसलें",
+    "allStates": "सभी राज्य",
+    "allDistricts": "सभी जिले",
+    "allMarkets": "सभी मंडियाँ",
+    "allVarieties": "सभी किस्में",
+    "allGrades": "सभी ग्रेड"
+  },
+  "priceCard": {
+    "modalPrice": "वर्तमान रिपोर्टेड मॉडल कीमत",
+    "minRate": "न्यूनतम भाव",
+    "maxRate": "अधिकतम भाव",
+    "arrivalDate": "आवक तिथि",
+    "spread": "दैनिक नीलामी स्प्रेड",
+    "recent": "ताज़ा",
+    "officialDate": "आधिकारिक Agmarknet रिपोर्टिंग तिथि:",
+    "grade": "ग्रेड",
+    "perQuintal": "/क्विंटल",
+    "mostFrequent": "सत्र में सर्वाधिक बार नीलाम हुई दर",
+    "officialSession": "आधिकारिक मंडी सत्र",
+    "source": "स्रोत",
+    "indicativeNotice": "सांकेतिक मूल्य सूचना: अंतिम नीलामी दर उत्पाद की गुणवत्ता, नमी की मात्रा और नीलामी लॉट आवक पर निर्भर करती है।"
+  },
+  "results": {
+    "title": "मंडी नीलामी रिकॉर्ड्स",
+    "showing": "प्रदर्शित",
+    "resultsFound": "सत्यापित नीलामी रिकॉर्ड मिले",
+    "noResults": "कोई मेल खाता मंडी रिकॉर्ड नहीं मिला।",
+    "columns": {
+      "commodity": "फसल",
+      "market": "मंडी / बाजार",
+      "location": "जिला एवं राज्य",
+      "variety": "किस्म",
+      "grade": "ग्रेड",
+      "modalPrice": "मॉडल भाव",
+      "minMax": "न्यूनतम / अधिकतम",
+      "arrivalDate": "आवक तिथि"
+    }
+  }
+}

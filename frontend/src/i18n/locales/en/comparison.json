@@ -1,0 +1,39 @@
+{
+  "pageTitle": "Mandi Price Comparison & Spread",
+  "pageSubtitle": "Compare wholesale auction prices across multiple markets simultaneously to spot arbitrage opportunities",
+  "stats": {
+    "highestPrice": "Highest Price Mandi",
+    "lowestPrice": "Lowest Price Mandi",
+    "averagePrice": "Regional Average Price",
+    "priceSpread": "Inter-Mandi Spread Difference"
+  },
+  "chart": {
+    "title": "Modal Price Spread Comparison (₹/Quintal)",
+    "subtitle": "Direct comparison across reporting markets for active crop",
+    "aboveAverage": "Above Average",
+    "belowAverage": "Below Average"
+  },
+  "table": {
+    "title": "Detailed Market Comparison Table",
+    "columns": {
+      "mandi": "Mandi / Market",
+      "district": "District & State",
+      "modalPrice": "Modal Price",
+      "range": "Min - Max Range",
+      "spreadDiff": "Diff from Average",
+      "action": "Action"
+    }
+  },
+  "noComparisonData": "Not enough comparative market data available for the selected filters.",
+  "selectMandis": "Select Mandis to Compare ({{selected}} of {{max}} selected)",
+  "selectMandisHint": "Check 2 to 8 markets to compare side-by-side",
+  "selectFirst8": "Select First 8",
+  "currentPriceDifference": "Current Price Difference",
+  "premiumBetween": "+{{percent}}% premium between markets",
+  "identicalPricing": "Identical pricing",
+  "visualComparison": "Modal Price Visual Comparison ({{commodity}})",
+  "mandisCount": "{{count}} Mandis",
+  "detailsTableTitle": "Side-by-Side Mandi Comparison Details",
+  "highest": "HIGHEST",
+  "vsLowest": "vs Lowest"
+}

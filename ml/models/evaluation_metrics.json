@@ -1,0 +1,52 @@
+{
+  "metrics_table": [
+    {
+      "Model": "Naive_Lag1",
+      "Val_MAE": 397.35,
+      "Test_MAE": 400.54,
+      "Test_RMSE": 793.74,
+      "Test_MAPE_%": 13.63,
+      "Test_R2": 0.9177
+    },
+    {
+      "Model": "Rolling_Mean_3",
+      "Val_MAE": 461.91,
+      "Test_MAE": 470.26,
+      "Test_RMSE": 814.22,
+      "Test_MAPE_%": 17.3,
+      "Test_R2": 0.9134
+    },
+    {
+      "Model": "Ridge_Regression",
+      "Val_MAE": 407.76,
+      "Test_MAE": 413.05,
+      "Test_RMSE": 739.93,
+      "Test_MAPE_%": 14.49,
+      "Test_R2": 0.9285
+    },
+    {
+      "Model": "Hist_Gradient_Boosting",
+      "Val_MAE": 403.25,
+      "Test_MAE": 407.68,
+      "Test_RMSE": 734.82,
+      "Test_MAPE_%": 14.2,
+      "Test_R2": 0.9294
+    },
+    {
+      "Model": "Random_Forest",
+      "Val_MAE": 391.16,
+      "Test_MAE": 409.64,
+      "Test_RMSE": 738.6,
+      "Test_MAPE_%": 14.46,
+      "Test_R2": 0.9287
+    }
+  ],
+  "best_model": "Hist_Gradient_Boosting",
+  "train_range": "2016-10 to 2023-12",
+  "val_range": "2024-01 to 2024-12",
+  "test_range": "2025-01 to 2026-09",
+  "train_samples": 28237,
+  "val_samples": 3624,
+  "test_samples": 6157,
+  "leakage_free": true
+}

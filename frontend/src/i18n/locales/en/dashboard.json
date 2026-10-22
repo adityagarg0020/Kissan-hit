@@ -1,0 +1,72 @@
+{
+  "welcomeTitle": "🌾 Welcome to Kissan Saathi",
+  "welcomeLead": "Empowering Indian farmers with transparent mandi auction rates, nearest-market comparison, 10-year historical intelligence, and machine-learning price forecasts.",
+  "activeRecords": "Active Mandi Records",
+  "historicalPoints": "10-Year Historical Points",
+  "sessionFreshness": "Mandi Session Freshness",
+  "popularCropsTitle": "🌾 Popular Mandi Commodities",
+  "popularCropsSubtitle": "Current session modal rates and recent price movements from official Agmarknet arrivals",
+  "viewAllMandis": "View All Mandis →",
+  "arrival": "Arrival",
+  "exploreHint": "Explore →",
+  "activeAlertsTitle": "Important Market Alerts",
+  "activeAlertsSubtitle": "Real-time alerts based on government auction data",
+  "viewAllAlerts": "View All Alerts →",
+  "exploreFeatures": "🧭 Explore Major Features",
+  "exploreSubtitle": "Jump directly to dedicated analytics, nearest mandi discovery, or decision-support tools",
+  "openTool": "Open Tool",
+  "guaranteeTitle": "Data Freshness & Transparency Guarantee",
+  "guaranteeDesc": "Current mandi rates are extracted from official Agmarknet arrivals via Data.gov.in. 10-year chronological historical statistics reflect verified state-level monthly records.",
+  "featureCards": {
+    "liveMarket": {
+      "title": "Live Mandi Prices",
+      "desc": "Real-time auction rates, modal prices, varieties, and grade spreads across mandis.",
+      "badge": "Live Data"
+    },
+    "nearbyMandis": {
+      "title": "Nearby Mandis",
+      "desc": "Straight-line Haversine distance, transportation burden tags, and 60/30/10 best mandi picks.",
+      "badge": "Distance Matrix"
+    },
+    "comparison": {
+      "title": "Price Comparison",
+      "desc": "Side-by-side modal price comparison and price spreads across multiple mandis.",
+      "badge": "Visual Spread"
+    },
+    "historical": {
+      "title": "Historical Analysis",
+      "desc": "10-year state-level monthly Agmarknet patterns, 12-month heatmap, and seasonal cycles.",
+      "badge": "10-Year Series"
+    },
+    "prediction": {
+      "title": "AI Price Prediction",
+      "desc": "Machine learning 7-day to 3-month price projections based on historical patterns.",
+      "badge": "Machine Learning"
+    },
+    "sellDecision": {
+      "title": "Sell Decision Support",
+      "desc": "Data-backed Sell Now vs Wait guidance explaining price strength and holding factors.",
+      "badge": "Decision Engine"
+    },
+    "expenses": {
+      "title": "Farm Expenses",
+      "desc": "Track input costs, calculate break-even rates, and compare against current mandi auctions.",
+      "badge": "Cost Ledger"
+    },
+    "weather": {
+      "title": "Weather & Field Alerts",
+      "desc": "Live OpenWeather observations, 5-day agricultural forecast, and deterministic field alerts.",
+      "badge": "Micro-Weather"
+    },
+    "alerts": {
+      "title": "Price Alerts",
+      "desc": "Custom target rate thresholds, daily percentage shifts, and trend shift notifications.",
+      "badge": "Active"
+    },
+    "assistant": {
+      "title": "AI Assistant",
+      "desc": "Conversational market intelligence answering farmer queries grounded in verified Agmarknet data.",
+      "badge": "OpenAI + RAG"
+    }
+  }
+}

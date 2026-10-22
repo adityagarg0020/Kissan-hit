@@ -1,0 +1,70 @@
+{
+  "pageTitle": "🌾 Sell Decision Support",
+  "pageSubtitle": "Data-backed guidance comparing current auction rates against 10-year historical baselines and machine learning forecast trends to help you choose the best selling window.",
+  "cropAndLocation": "Crop & Location Selection",
+  "loadingMatrix": "Synthesizing sell decision matrix for {{crop}}...",
+  "recommendation": {
+    "title": "Decision Recommendation",
+    "sellNow": "Sell Now",
+    "wait": "Wait / Hold",
+    "favorableSell": "Potentially Favorable to Sell Now",
+    "favorableHold": "Favorable to Hold / Wait",
+    "neutral": "Balanced Conditions",
+    "confidence": "Analysis Confidence"
+  },
+  "recTitles": {
+    "stable": "⚖️ Market Appears Relatively Stable",
+    "wait": "🌱 Potentially Favorable to Wait",
+    "sell": "⚡ Potentially Favorable to Sell Now",
+    "insufficient": "⚠️ Insufficient Data"
+  },
+  "whyGenerated": "Why this recommendation was generated:",
+  "recommendedWindow": "Recommended Selling Window:",
+  "windows": {
+    "wait": "Next 2–4 weeks (monitor upcoming arrivals)",
+    "sell": "Immediate sessions (next 1–3 days)",
+    "stable": "Flexible throughout the coming weeks",
+    "insufficient": "Awaiting auction arrival data",
+    "immediate": "Immediate market sessions",
+    "flexible": "Flexible"
+  },
+  "rationales": {
+    "insufficient": "Not enough recent mandi arrivals or historical series are available for this commodity/state selection to generate a reliable sell/wait recommendation.",
+    "sellHigh": "Current modal price (₹{{current}}/q) is tracking +{{diff}}% above the 10-year historical average (₹{{avg}}/q). Selling in current sessions locks in relatively strong rates.",
+    "stable": "Current modal price is tracking in line with historical benchmarks. Selling decision should depend on immediate liquidity requirements, storage capacity, and local transport costs."
+  },
+  "breakEven": {
+    "title": "Your Recorded Farm Break-Even Baseline ({{crop}})",
+    "above": "Your recorded break-even price is ₹{{price}}/q (Total cost: ₹{{cost}}). Current market price (₹{{current}}/q) is +₹{{diff}}/q above your cost recovery threshold.",
+    "below": "Your recorded break-even price is ₹{{price}}/q (Total cost: ₹{{cost}}). Current market price (₹{{current}}/q) is -₹{{diff}}/q below your break-even rate.",
+    "base": "Your recorded break-even price is ₹{{price}}/q (Total cost: ₹{{cost}}).",
+    "operationalNote": "Note: This operational baseline is farmer-entered. Mandi handling and transport deductions may apply. Profits are never guaranteed.",
+    "viewDetails": "View Expense Details →"
+  },
+  "synthesis": {
+    "title": "🔍 Decision Synthesis Metrics",
+    "subtitle": "How current price, 10-year history, AI trajectory, and volatility inform this decision",
+    "metric1": "1. Current Modal Rate",
+    "metric2": "2. 10-Year Historical Benchmark",
+    "metric3": "3. AI Forecast Direction",
+    "metric4": "4. Historical Volatility",
+    "dataPending": "Data Pending",
+    "vsHistAvg": "vs 10-Yr Avg",
+    "benchmarkPending": "Benchmark comparison pending",
+    "peakSeason": "Peak Season:",
+    "seasonalHolding": "Seasonal Holding",
+    "shift": "Shift:",
+    "cv": "CV:"
+  },
+  "considerations": {
+    "title": "⚖️ Practical Farmer Considerations Before Deciding",
+    "storageTitle": "🌾 Storage & Spoilage:",
+    "storageDesc": "Holding produce incurs bag costs, fumigation, and weight shrinkage. For perishable crops like vegetables, immediate selling is almost always prudent.",
+    "transportTitle": "🚚 Transportation & Fuel:",
+    "transportDesc": "Ensure the price spread between markets comfortably exceeds diesel and loading charges before traveling to a distant mandi.",
+    "liquidityTitle": "💰 Immediate Liquidity:",
+    "liquidityDesc": "If repayment deadlines or sowing input costs (fertilizer, diesel) are pressing, realizing current rates avoids borrowing costs."
+  },
+  "disclaimerTitle": "Decision Support Disclaimer & Transparency",
+  "disclaimer": "This advice is provided purely for informational and decision-support purposes. Kissan Saathi does not guarantee future rates or profits. Actual prices received in APMC auctions depend on individual lot moisture, grading, arrival volume, and daily buyer participation."
+}

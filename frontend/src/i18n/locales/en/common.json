@@ -1,0 +1,100 @@
+{
+  "appName": "Kissan Saathi",
+  "appTagline": "Agricultural Market Intelligence & AI Decision Support",
+  "greeting": "Namaste",
+  "nav": {
+    "dashboard": "Dashboard",
+    "market": "Live Mandi Prices",
+    "nearby": "Nearby Mandis",
+    "comparison": "Price Comparison",
+    "historical": "Historical Analysis",
+    "prediction": "AI Price Prediction",
+    "sellDecision": "Sell Decision",
+    "expenses": "Farm Expenses",
+    "weather": "Weather",
+    "alerts": "Price Alerts",
+    "assistant": "AI Assistant",
+    "profile": "Farmer Profile"
+  },
+  "navShort": {
+    "home": "Home",
+    "prices": "Prices",
+    "nearby": "Nearby",
+    "aiChat": "AI Chat",
+    "alerts": "Alerts"
+  },
+  "footer": {
+    "title": "Kissan Saathi Market Intelligence System",
+    "dataSource": "Data Source: Agmarknet via Data.gov.in • Official Government Mandi Price Database",
+    "disclaimer": "Market prices, recommendations, and forecasts are indicative and do not guarantee future profit or rates."
+  },
+  "actions": {
+    "search": "Search",
+    "filter": "Filter",
+    "reset": "Reset",
+    "resetFilters": "Reset Filters",
+    "refresh": "Refresh",
+    "viewDetails": "View Details",
+    "explore": "Explore",
+    "viewAll": "View All",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "submit": "Submit",
+    "close": "Close",
+    "retry": "Retry Now",
+    "prev": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of",
+    "select": "Select...",
+    "changeLocation": "Change Location",
+    "login": "Log In",
+    "logout": "Sign Out",
+    "signUp": "Sign Up"
+  },
+  "location": {
+    "farmerLocation": "Farmer Location",
+    "defaultHub": "Default Market Hub",
+    "currentLocation": "Current Location",
+    "useMyLocation": "📍 Use My Location",
+    "detecting": "Detecting your location...",
+    "gpsMode": "GPS",
+    "manualMode": "Manual",
+    "districtCenter": "District Center",
+    "notSet": "Location Not Set",
+    "locationUnavailable": "Location name unavailable",
+    "permissionDenied": "Location permission denied. Please select your location manually.",
+    "gpsUnavailable": "Unable to determine your current location. Please try again or select manually.",
+    "timeout": "Location request timed out. Please try again.",
+    "notSupported": "Your browser does not support location detection. Please select your location manually."
+  },
+  "ticker": {
+    "loading": "Loading live Agmarknet market prices...",
+    "ariaLabel": "Live Market Price Ticker",
+    "steady": "Steady"
+  },
+  "badges": {
+    "liveData": "Live Data",
+    "verified": "Verified",
+    "autoTrainOn": "Auto-Train: On",
+    "active": "Active",
+    "activeSelection": "Active Selection"
+  },
+  "states": {
+    "loading": "Loading...",
+    "loadingData": "Loading market intelligence data...",
+    "querying": "Querying verified Agmarknet database & computational models...",
+    "noRecordsFound": "No Mandi Records Found",
+    "tryBroadening": "Try broadening your search filters (e.g. select All Mandis or check an adjoining district).",
+    "noData": "No data available."
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Unable to connect to the service. Please check your internet connection.",
+    "unavailable": "Data is temporarily unavailable. Please try again later.",
+    "notFound": "Requested record could not be found."
+  }
+}

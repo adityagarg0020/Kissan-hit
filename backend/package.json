@@ -1,0 +1,26 @@
+{
+  "name": "kissansaathi-backend",
+  "version": "1.0.0",
+  "description": "KissanSaathi Market Intelligence and Price Discovery Backend",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "agriculture",
+    "market-intelligence",
+    "price-discovery",
+    "mandi"
+  ],
+  "author": "KissanSaathi Team",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.116.0",
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^7.12.1"
+  }
+}

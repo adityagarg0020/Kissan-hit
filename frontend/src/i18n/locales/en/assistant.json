@@ -1,0 +1,45 @@
+{
+  "pageTitle": "AI Agricultural Market Assistant",
+  "pageSubtitle": "Conversational assistant grounded in official Agmarknet wholesale auction data, nearby distance metrics, and 10-year historical patterns",
+  "header": {
+    "title": "Kissan Saathi AI Assistant",
+    "status": "Online • Grounded RAG Intelligence",
+    "clearChat": "Clear Chat",
+    "commonQueries": "Common Farmer Queries:"
+  },
+  "welcome": {
+    "greeting": "Namaste! 🙏 I am Kissan Saathi AI Assistant (किसान साथी).",
+    "intro": "I provide verified APMC mandi rates, nearby market comparisons, 10-year historical Agmarknet benchmarks, and machine learning sell/wait advisory.\n\nYou can ask me questions in English, हिंदी, or Hinglish. What crop or market information can I find for you today?",
+    "chatCleared": "Namaste! 🙏 Chat history cleared. What agricultural market data can I look up for you?",
+    "bubbleWelcome": "Namaste! 🙏 I am Kissan Saathi AI. How can I help you with live mandi prices, nearby markets, or sell/wait advice today?"
+  },
+  "prompts": {
+    "wheat": "What is today's Wheat price in Uttar Pradesh?",
+    "onion": "Should I sell Onion now or wait?",
+    "tomato": "Which nearby mandi has the best price for Tomato?",
+    "gram": "Historically, which month has the highest price for Gram?"
+  },
+  "transparency": {
+    "title": "Verified Agricultural Intelligence • Zero Guesswork Guarantee",
+    "desc": "All price responses are cross-referenced in real-time with official Agmarknet arrivals and 10-year historical series."
+  },
+  "input": {
+    "placeholder": "Ask about today's price, nearby mandis, historical peak month, or sell advice...",
+    "send": "Send",
+    "thinking": "Checking official mandi prices & computing guidance...",
+    "verifiedVia": "Verified via:"
+  },
+  "chatBubble": {
+    "title": "Kissan Saathi AI",
+    "subtitle": "Agmarknet Grounded",
+    "teaser": "Ask AI Saathi",
+    "placeholder": "Ask about crop prices, mandis...",
+    "verifiedTag": "Verified Mandi Record",
+    "analyzing": "Analyzing APMC data...",
+    "footer": "🌾 Official APMC Agmarknet Intelligence • Live & Grounded",
+    "openFull": "Open Full Page Assistant",
+    "resetChat": "Reset Chat",
+    "close": "Close"
+  },
+  "disclaimer": "Kissan Saathi AI Assistant synthesizes official government Agmarknet datasets. Final wholesale auction rates depend on quality grading and physical produce inspection at the APMC yard."
+}

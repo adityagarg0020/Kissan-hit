@@ -1,0 +1,50 @@
+{
+  "pageTitle": "लाइव्ह मंडी भाव आणि आवक",
+  "pageSubtitle": "Data.gov.in वरून थेट मिळवलेला अधिकृत Agmarknet घाऊक लिलाव डेटा",
+  "filters": {
+    "commodity": "शेतमाल / पीक",
+    "state": "राज्य",
+    "district": "जिल्हा",
+    "market": "मंडी / बाजार",
+    "variety": "वाण",
+    "grade": "प्रत / ग्रेड",
+    "searchPlaceholder": "मंडी, पीक किंवा वाणानुसार शोधा...",
+    "allCommodities": "सर्व पिके",
+    "allStates": "सर्व राज्ये",
+    "allDistricts": "सर्व जिल्हे",
+    "allMarkets": "सर्व मंड्या",
+    "allVarieties": "सर्व वाण",
+    "allGrades": "सर्व ग्रेड"
+  },
+  "priceCard": {
+    "modalPrice": "चालू सत्रातील मोडल किंमत",
+    "minRate": "किमान किंमत",
+    "maxRate": "कमाल किंमत",
+    "arrivalDate": "आवक तारीख",
+    "spread": "दैनंदिन लिलाव फरक",
+    "recent": "ताजे",
+    "officialDate": "अधिकृत Agmarknet नोंद तारीख:",
+    "grade": "प्रत",
+    "perQuintal": "/क्विंटल",
+    "mostFrequent": "सत्रातील सर्वाधिक व्यवहारांचा सरासरी दर",
+    "officialSession": "अधिकृत मंडी सत्र",
+    "source": "स्रोत",
+    "indicativeNotice": "सांकेतिक दर सूचना: प्रत्यक्ष लिलाव दर शेतमालाची गुणवत्ता, ओलावा आणि आवकेवर अवलंबून असतो."
+  },
+  "results": {
+    "title": "मंडी लिलाव नोंदी",
+    "showing": "दर्शवत आहे",
+    "resultsFound": "सत्यापित लिलाव नोंदी",
+    "noResults": "कोणतीही जुळणारी मंडी नोंद आढळली नाही.",
+    "columns": {
+      "commodity": "शेतमाल",
+      "market": "मंडी / बाजार",
+      "location": "जिल्हा आणि राज्य",
+      "variety": "वाण",
+      "grade": "प्रत",
+      "modalPrice": "मोडल किंमत",
+      "minMax": "किमान / कमाल",
+      "arrivalDate": "आवक तारीख"
+    }
+  }
+}

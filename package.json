@@ -1,0 +1,19 @@
+{
+  "name": "kissansaathi-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "KissanSaathi Agriculture Market Intelligence & Price Discovery Prototype",
+  "scripts": {
+    "dev": "node start.js",
+    "start": "node start.js",
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev",
+    "build": "cd frontend && npm install --include=dev && npm run build"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "pageTitle": "Farmer Profile & Farm Management",
+  "pageSubtitle": "Manage your profile details, farms, registered land parcels, and system preferences.",
+  "personal": {
+    "title": "Personal Details",
+    "editBtn": "Edit Profile",
+    "farmerName": "Farmer Name",
+    "farmerBrother": "Farmer Brother",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "preferredLang": "Preferred Language",
+    "farmerId": "Farmer ID",
+    "saveProfile": "Save Profile",
+    "saving": "Saving...",
+    "cancel": "Cancel",
+    "notRecorded": "Not recorded",
+    "profileSaved": "Profile updated successfully.",
+    "profileSaveError": "Could not update profile: "
+  },
+  "farms": {
+    "title": "Registered Farm Land Parcels",
+    "subtitle": "Your active land records for crop-specific expense ledgers and APMC mandi distance matrix.",
+    "addNewFarm": "Add New Farm",
+    "activeFarmBadge": "Active Farm",
+    "setActiveBtn": "Set as Active",
+    "editFarmBtn": "Edit Farm",
+    "deleteFarmBtn": "Delete Farm",
+    "deleteConfirm": "Are you sure you want to delete this farm? Associated expense records may also be affected.",
+    "noFarmsTitle": "No Farm Parcels Added Yet",
+    "noFarmsDesc": "Add your land parcels to unlock crop expense tracking, mandi distance calculations, and customized market advice.",
+    "totalLand": "Total Registered Land",
+    "primaryCrop": "Primary Crop",
+    "districtLocation": "District Location",
+    "area": "Area",
+    "soilType": "Soil Type",
+    "irrigationType": "Irrigation Type",
+    "location": "Location",
+    "coordinates": "Coordinates",
+    "noFarms": "No farms registered yet."
+  },
+  "farmModal": {
+    "addTitle": "Register New Farm Parcel",
+    "editTitle": "Edit Farm Parcel",
+    "farmName": "Farm / Parcel Name",
+    "farmNamePlaceholder": "e.g. Aligarh Wheat Farm",
+    "crop": "Main Crop",
+    "variety": "Crop Variety (Optional)",
+    "varietyPlaceholder": "e.g. HD-2967, Sharbati",
+    "area": "Farm Area",
+    "areaUnit": "Area Unit",
+    "state": "State",
+    "district": "District",
+    "village": "Village / Gram Panchayat",
+    "villagePlaceholder": "e.g. Rampur",
+    "pincode": "Pincode",
+    "soilType": "Soil Type",
+    "irrigationType": "Irrigation Type",
+    "coordsTitle": "Geographical Coordinates (GPS)",
+    "coordsDesc": "Coordinates enable exact distance calculations to nearby APMC mandis.",
+    "detectGps": "Detect Current GPS Location",
+    "detecting": "Acquiring GPS...",
+    "latitude": "Latitude",
+    "longitude": "Longitude",
+    "cancel": "Cancel",
+    "saveFarm": "Save Farm Parcel",
+    "savingFarm": "Saving Farm...",
+    "units": {
+      "acre": "Acre",
+      "hectare": "Hectare",
+      "bigha": "Bigha",
+      "guntha": "Guntha"
+    },
+    "soils": {
+      "alluvial": "Alluvial / Loamy (दोमट)",
+      "black": "Black / Regur (काली मिट्टी)",
+      "red": "Red / Sandy (लाल/रेतीली)",
+      "clay": "Clayey (चिकनी मिट्टी)"
+    },
+    "irrigations": {
+      "tubewell": "Tubewell / Borewell (नलकूप)",
+      "canal": "Canal (नहर)",
+      "rainfed": "Rainfed (वर्षा आधारित)",
+      "drip": "Drip / Sprinkler (ड्रिप/स्प्रिंकलर)"
+    }
+  },
+  "account": {
+    "title": "Account Session",
+    "signOut": "Sign Out of Account",
+    "signOutConfirm": "Are you sure you want to sign out?"
+  }
+}

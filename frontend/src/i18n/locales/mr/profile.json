@@ -1,0 +1,91 @@
+{
+  "pageTitle": "शेतकरी प्रोफाइल आणि शेत व्यवस्थापन",
+  "pageSubtitle": "तुमची वैयक्तिक माहिती, शेती, नोंदणीकृत जमिनीचे तुकडे आणि प्रणाली प्राधान्ये व्यवस्थापित करा.",
+  "personal": {
+    "title": "वैयक्तिक माहिती",
+    "editBtn": "प्रोफाइल संपादित करा",
+    "farmerName": "शेतकऱ्याचे नाव",
+    "farmerBrother": "शेतकरी बंधू",
+    "email": "ईमेल पत्ता",
+    "phone": "फोन नंबर",
+    "preferredLang": "पसंतीची भाषा",
+    "farmerId": "शेतकरी आयडी",
+    "saveProfile": "प्रोफाइल जतन करा",
+    "saving": "जतन करत आहे...",
+    "cancel": "रद्द करा",
+    "notRecorded": "नोंदवलेले नाही",
+    "profileSaved": "प्रोफाइल यशस्वीरित्या अद्ययावत केले.",
+    "profileSaveError": "प्रोफाइल अद्ययावत करण्यात त्रुटी: "
+  },
+  "farms": {
+    "title": "नोंदणीकृत शेतजमीन",
+    "subtitle": "पीकनिहाय खर्च नोंद आणि कृषी उत्पन्न बाजार समिती (APMC) अंतर मोजणीसाठी तुमची सक्रिय जमीन नोंद.",
+    "addNewFarm": "नवीन शेत जोडा",
+    "activeFarmBadge": "सक्रिय शेत",
+    "setActiveBtn": "सक्रिय म्हणून निवडा",
+    "editFarmBtn": "शेत संपादित करा",
+    "deleteFarmBtn": "शेत हटवा",
+    "deleteConfirm": "तुम्हाला खात्री आहे का की तुम्ही हे शेत हटवू इच्छिता? संबंधित खर्चाच्या नोंदींवरही परिणाम होऊ शकतो.",
+    "noFarmsTitle": "अद्याप कोणतीही शेतजमीन जोडलेली नाही",
+    "noFarmsDesc": "पीक खर्च ट्रॅकिंग, बाजार अंतर आणि सानुकूलित बाजार सल्ला मिळवण्यासाठी तुमची शेतजमीन जोडा.",
+    "totalLand": "एकूण नोंदणीकृत जमीन",
+    "primaryCrop": "मुख्य पीक",
+    "districtLocation": "जिल्हा स्थान",
+    "area": "क्षेत्रफळ",
+    "soilType": "मातीचा प्रकार",
+    "irrigationType": "सिंचनाचा प्रकार",
+    "location": "स्थान",
+    "coordinates": "अक्षांश-रेखांश (GPS)",
+    "noFarms": "अद्याप कोणतीही शेतं नोंदवलेली नाहीत."
+  },
+  "farmModal": {
+    "addTitle": "नवीन शेताची नोंदणी करा",
+    "editTitle": "शेत संपादित करा",
+    "farmName": "शेताचे नाव",
+    "farmNamePlaceholder": "उदा. वाशी गहू शेत",
+    "crop": "मुख्य पीक",
+    "variety": "पिकाची जात (पर्यायी)",
+    "varietyPlaceholder": "उदा. HD-2967, शरबती",
+    "area": "शेताचे क्षेत्रफळ",
+    "areaUnit": "क्षेत्रफळ एकक",
+    "state": "राज्य",
+    "district": "जिल्हा",
+    "village": "गाव / ग्रामपंचायत",
+    "villagePlaceholder": "उदा. रामपूर",
+    "pincode": "पिनकोड",
+    "soilType": "मातीचा प्रकार",
+    "irrigationType": "सिंचनाचा प्रकार",
+    "coordsTitle": "भौगोलिक स्थान (GPS अक्षांश-रेखांश)",
+    "coordsDesc": "अक्षांश-रेखांश जवळच्या बाजार समित्यांचे अचूक अंतर मोजण्यास मदत करतात.",
+    "detectGps": "सध्याचे GPS स्थान मिळवा",
+    "detecting": "GPS स्थान शोधत आहे...",
+    "latitude": "अक्षांश (Latitude)",
+    "longitude": "रेखांश (Longitude)",
+    "cancel": "रद्द करा",
+    "saveFarm": "शेत जतन करा",
+    "savingFarm": "शेत जतन करत आहे...",
+    "units": {
+      "acre": "एकर (Acre)",
+      "hectare": "हेक्टर (Hectare)",
+      "bigha": "बिघा (Bigha)",
+      "guntha": "गुंठा (Guntha)"
+    },
+    "soils": {
+      "alluvial": "गाळाची / पोयटा माती (Alluvial/Loamy)",
+      "black": "काळी / रेगुर माती (Black Soil)",
+      "red": "तांबडी / वालुकामय माती (Red/Sandy)",
+      "clay": "चिकणमाती (Clayey)"
+    },
+    "irrigations": {
+      "tubewell": "नलकूप / विहीर / बोअरवेल (Tubewell/Well)",
+      "canal": "कालवा (Canal)",
+      "rainfed": "पावसावर अवलंबून / कोरडवाहू (Rainfed)",
+      "drip": "ठिबक / तुषार सिंचन (Drip/Sprinkler)"
+    }
+  },
+  "account": {
+    "title": "खाते सत्र",
+    "signOut": "खात्यातून बाहेर पडा (लॉगआउट)",
+    "signOutConfirm": "तुम्हाला खात्री आहे की तुम्ही खात्यातून बाहेर पडू इच्छिता?"
+  }
+}

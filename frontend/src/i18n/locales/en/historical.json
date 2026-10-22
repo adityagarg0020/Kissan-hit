@@ -1,0 +1,66 @@
+{
+  "pageTitle": "10-Year Historical Price Intelligence",
+  "pageSubtitle": "Long-term Agmarknet monthly auction benchmarks, seasonal cyclicality, and state-level comparative analysis",
+  "benchmarks": {
+    "bestMonth": "Best Month to Sell",
+    "bestState": "Top Performing State",
+    "avgPrice": "10-Year Average Benchmark",
+    "volatility": "Historical Volatility Index",
+    "peakPrice": "Highest Recorded Historical Price"
+  },
+  "chart": {
+    "title": "12-Month Seasonal Price Pattern",
+    "subtitle": "Average monthly price distribution across historical reporting years",
+    "month": "Month",
+    "price": "Historical Price (₹/q)"
+  },
+  "table": {
+    "title": "State-Level 10-Year Benchmark Rankings",
+    "subtitle": "Ranked by historical average wholesale realization",
+    "columns": {
+      "rank": "Rank",
+      "state": "State",
+      "avgPrice": "10-Yr Average",
+      "peakMonth": "Peak Historical Month",
+      "volatility": "Price Volatility",
+      "recordCount": "Historical Observations"
+    }
+  },
+  "months": {
+    "jan": "January",
+    "feb": "February",
+    "mar": "March",
+    "apr": "April",
+    "may": "May",
+    "jun": "June",
+    "jul": "July",
+    "aug": "August",
+    "sep": "September",
+    "oct": "October",
+    "nov": "November",
+    "dec": "December"
+  },
+  "disclaimer": "Historical patterns reflect long-term empirical Agmarknet data and do not guarantee future prices or market outcomes.",
+  "transparencyNote": "State-level monthly series (October 2016 – September 2026). Note: Historical data reflects monthly state-level averages from official Agmarknet records, not individual mandi-level sessions.",
+  "stateRegion": "State / Region",
+  "allIndia": "All India (National Benchmark)",
+  "trendCardTitle": "10-Year Price Trend (2016–2026)",
+  "tenYrAvg": "10-Yr Avg",
+  "range": "Range",
+  "bestMonthTitle": "🗓️ Historically Best Selling Month",
+  "highestAvgModal": "Highest average modal rate across 10 years for {{crop}}.",
+  "peakSpike": "Historical Peak Spike",
+  "topRealizationState": "🏆 Top Realization State",
+  "heatmapTitle": "📅 12-Month Historical Price Heatmap",
+  "seasonalCalendar": "Seasonal Calendar",
+  "heatmapDesc": "Average monthly prices for {{crop}} in {{state}} across all 10 recorded years.",
+  "seasonalBreakdown": "🌾 Seasonal Price Breakdown",
+  "volatilityConsistency": "📊 Historical Volatility & Consistency",
+  "stateRankingTitle": "🏆 State-Wise 10-Year Price Ranking ({{crop}})",
+  "comparisonAcrossStates": "Comparison across {{count}} producing states",
+  "highestFirst": "Highest First",
+  "lowestFirst": "Lowest First",
+  "minRecorded": "Min Recorded",
+  "maxRecorded": "Max Recorded",
+  "obsCount": "Obs Count"
+}

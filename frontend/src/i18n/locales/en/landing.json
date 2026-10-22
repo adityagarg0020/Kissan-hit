@@ -1,0 +1,173 @@
+{
+  "nav": {
+    "home": "Home",
+    "market": "Market",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "weather": "Weather",
+    "about": "About",
+    "login": "Log In",
+    "getStarted": "Get Started",
+    "dashboard": "Go to Dashboard"
+  },
+  "hero": {
+    "badge": "Agricultural Intelligence & Price Discovery",
+    "headline": "Make Better Farming Decisions with Kissan Saathi",
+    "supporting": "Check mandi prices, compare markets, understand historical price trends, track farm expenses, monitor weather and get AI-powered agricultural assistance — all in one place.",
+    "primaryCta": "Get Started",
+    "secondaryCta": "Explore Market Prices",
+    "dashboardCta": "Go to Dashboard",
+    "imgAlt": "Indian farmer in green wheat field checking market intelligence on smartphone"
+  },
+  "trustStrip": {
+    "market": "🌾 Market Intelligence",
+    "weather": "🌦️ Weather Insights",
+    "economics": "💰 Farm Economics",
+    "ai": "🤖 AI Assistance"
+  },
+  "features": {
+    "title": "Everything You Need to Make Smarter Farm Decisions",
+    "subtitle": "Built specifically for Indian farmers to bring transparency, clarity, and actionable intelligence to every crop cycle.",
+    "liveMarketTitle": "Live Mandi Prices",
+    "liveMarketDesc": "Get the latest available mandi prices from verified government market data.",
+    "nearbyTitle": "Nearby Mandis",
+    "nearbyDesc": "Find nearby markets and compare prices and distance.",
+    "historicalTitle": "Historical Price Intelligence",
+    "historicalDesc": "Understand how crop prices have changed across states and months.",
+    "predictionTitle": "AI Price Prediction",
+    "predictionDesc": "Get model-based price estimates when sufficient historical data is available.",
+    "sellDecisionTitle": "Sell Decision Support",
+    "sellDecisionDesc": "Compare current prices, historical patterns and available forecasts to support your selling decision.",
+    "expensesTitle": "Farm Expense Tracker",
+    "expensesDesc": "Track farm costs, production, revenue and profit/loss.",
+    "weatherTitle": "Weather Report & Alerts",
+    "weatherDesc": "Check current weather, forecast and simple agricultural weather alerts.",
+    "assistantTitle": "AI Agricultural Assistant",
+    "assistantDesc": "Ask questions in English, Hindi or Hinglish and get answers based on available Kissan Saathi data."
+  },
+  "marketSection": {
+    "title": "Know Your Market Before You Sell",
+    "text": "Farmers often need to compare prices across markets before deciding where and when to sell. Kissan Saathi brings market information together so you can make a more informed decision.",
+    "cropLabel": "Commodity",
+    "wheat": "Wheat (गेहूं)",
+    "modalPriceLabel": "Current Modal Price",
+    "modalPriceVal": "₹2,450 / Quintal",
+    "nearbyLabel": "Nearby Benchmark Mandi",
+    "nearbyVal": "Agra APMC (Uttar Pradesh)",
+    "disclaimer": "Prices sourced from official Agmarknet wholesale data. Actual auction prices depend on quality, moisture, and local market arrivals.",
+    "cta": "Check Mandi Prices"
+  },
+  "historicalSection": {
+    "title": "Look Beyond Today's Price",
+    "text": "Kissan Saathi uses historical market data to help you understand price patterns across months and states.",
+    "bestMonthLabel": "Best Historical Month",
+    "bestMonthVal": "May - June (Post-Harvest Stabilization)",
+    "comparisonLabel": "State Comparison",
+    "comparisonVal": "Track rate differences between states",
+    "avgPriceLabel": "10-Year Average",
+    "avgPriceVal": "Long-term wholesale benchmark",
+    "volatilityLabel": "Price Seasonality",
+    "volatilityVal": "Identifies arrival surges and lean supply periods",
+    "disclaimer": "Historical patterns do not guarantee future prices.",
+    "cta": "Explore Historical Prices"
+  },
+  "expensesSection": {
+    "title": "Know What Your Farm Really Costs",
+    "text": "Track crop-wise expenses across seeds, fertilizers, labour, machinery, and transport to calculate your exact cost per quintal and break-even price.",
+    "areaLabel": "Your Farm Area",
+    "areaVal": "e.g. 5 Acres",
+    "totalCostLabel": "Your Total Cost",
+    "totalCostVal": "₹XX,XXX",
+    "revenueLabel": "Your Revenue",
+    "revenueVal": "₹XX,XXX",
+    "profitLabel": "Your Profit / Loss",
+    "profitVal": "₹XX,XXX",
+    "note": "Private ledger protected by secure farmer login. We never share your farm financial records.",
+    "cta": "Track Farm Expenses"
+  },
+  "weatherSection": {
+    "title": "Plan Around the Weather",
+    "text": "Check current weather, upcoming forecasts and simple agricultural weather alerts for your location before spraying, irrigating, or harvesting.",
+    "tempLabel": "Temperature",
+    "rainLabel": "Rain Probability",
+    "humidityLabel": "Humidity",
+    "windLabel": "Wind Speed",
+    "alertsLabel": "Agricultural Weather Alerts",
+    "alertsVal": "Timely warnings for rain, heatwaves, and gusty winds",
+    "note": "Verified meteorological observations from OpenWeather. We never fabricate weather conditions.",
+    "cta": "Check Weather"
+  },
+  "aiSection": {
+    "title": "Ask Kissan Saathi",
+    "text": "Get instant answers to your farming and market questions. Our AI assistant analyzes verified market data, weather reports, and farm records to give practical agricultural guidance.",
+    "q1": "\"Aaj gehun ka bhav kya hai?\"",
+    "q2": "\"Which mandi has the best price?\"",
+    "q3": "\"Kal baarish hogi kya?\"",
+    "q4": "\"Best month to sell wheat?\"",
+    "q5": "\"How much did I spend on my farm?\"",
+    "transparencyNote": "Ask in English, Hindi, or Hinglish. AI answers are strictly grounded in verified Kissan Saathi data, not fabricated AI guesses.",
+    "cta": "Try AI Assistant"
+  },
+  "multilingual": {
+    "title": "Your Language. Your Information.",
+    "text": "Kissan Saathi is designed to make agricultural information easier to understand for every farmer across India.",
+    "langEn": "English",
+    "langHi": "हिन्दी (Hindi)",
+    "langMr": "मराठी (Marathi)",
+    "langHinglish": "Hinglish",
+    "prompt": "Switch language anytime:"
+  },
+  "howItWorks": {
+    "title": "How Kissan Saathi Works",
+    "subtitle": "Three simple steps to make confident agricultural decisions.",
+    "step1Title": "Choose Your Location & Crop",
+    "step1Desc": "Select your commodity, district, and nearest mandi or let the app detect your agricultural hub.",
+    "step2Title": "Understand Prices, Weather & Farm Costs",
+    "step2Desc": "Review official APMC auction rates, 10-year historical trends, local weather alerts, and input costs.",
+    "step3Title": "Make a More Informed Decision",
+    "step3Desc": "Decide whether to sell now, transport to a better-paying market, or hold for optimal returns."
+  },
+  "whyUs": {
+    "title": "Why Farmers Can Use Kissan Saathi",
+    "subtitle": "Built on honest principles and transparent data, without unsupported promises.",
+    "p1": "Verified market data sources directly from official Agmarknet wholesale auctions",
+    "p2": "Historical price intelligence spanning 10 years of market benchmarks",
+    "p3": "Location-based market comparison factoring in distance and modal rates",
+    "p4": "Crop-specific farm expense tracking to identify true break-even points",
+    "p5": "Real-time weather reports and actionable farming advisories",
+    "p6": "AI-powered decision support grounded strictly in verified agricultural records",
+    "p7": "Full English, Hindi, and Marathi multilingual support accessible on mobile phones",
+    "noFakeClaims": "Notice: Kissan Saathi does not guarantee future crop yields, market rates, or profits. Market prices fluctuate based on real supply and demand."
+  },
+  "transparency": {
+    "title": "Built Around Real Information",
+    "subtitle": "We clearly separate verified primary data sources from AI-assisted interpretations.",
+    "dataSourceTitle": "Verified Data Sources",
+    "dataSourceDesc": "Government mandi records via Data.gov.in (Agmarknet), real-time weather from OpenWeather, and your own private farm expense records.",
+    "aiExplTitle": "AI Explanations & Support",
+    "aiExplDesc": "AI does not generate or guess market or weather figures. It summarizes and translates verified figures into plain, farmer-friendly advice."
+  },
+  "finalCta": {
+    "title": "Start Making More Informed Farm Decisions",
+    "text": "Explore market prices, understand your farm economics and stay informed about weather — with Kissan Saathi.",
+    "primaryBtn": "Get Started",
+    "secondaryBtn": "Explore Kissan Saathi",
+    "dashboardBtn": "Go to Dashboard"
+  },
+  "footer": {
+    "tagline": "Agricultural Market Intelligence & AI Decision Support System",
+    "linksTitle": "Quick Navigation",
+    "market": "Live Mandi Prices",
+    "historical": "Historical Analysis",
+    "weather": "Weather & Alerts",
+    "expenses": "Farm Expense Tracker",
+    "assistant": "AI Assistant",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "dataSourceTitle": "Data Sources",
+    "dataSourceText": "Wholesale prices sourced from Agmarknet via Data.gov.in. Weather powered by OpenWeather. All data is indicative.",
+    "disclaimerTitle": "Disclaimer",
+    "disclaimerText": "Market prices and recommendations are for guidance only and do not guarantee future profit or rates.",
+    "copyright": "© 2026 Kissan Saathi. Empowering Indian Farmers with Transparent Intelligence."
+  }
+}
